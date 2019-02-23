@@ -1,6 +1,6 @@
 # Lefty vs. the Brainless Skulls
 
-A top down 8-bit style shooter developed for the (Pico 8 fantasy console)[https://www.lexaloffle.com/pico-8.php].
+A top down 8-bit style shooter developed for the [Pico 8 fantasy console](https://www.lexaloffle.com/pico-8.php).
 
 ![Lefty vs. Brainless Skulls Pico-8 cart](leftyvsbrainlessskulls.p8.png)
 
