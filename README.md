@@ -1,0 +1,7 @@
+# Lefty vs. the Brainless Skulls
+
+A top down 8-bit style shooter developed for the (Pico 8 fantasy console)[https://www.lexaloffle.com/pico-8.php].
+
+<iframe src="https://itch.io/embed/372635" height="167" width="552" frameborder="0"></iframe>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
